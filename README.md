@@ -8,6 +8,9 @@ Goa holds a **special place in my heart**.   It's **pristine beaches**,warm and 
 2. Having fun 
 3. Challenges
 
+*Bebinca
+*rice and fish curry
+*sea food
 
 
    
