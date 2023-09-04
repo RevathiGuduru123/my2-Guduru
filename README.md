@@ -10,8 +10,10 @@ Goa holds a **special place in my heart**. It's **pristine beaches** ,warm and b
 
 * Bebinca
 * rice and fish curry
-* sea food
+* sea food 
 
+Here is the link to MyStats
+https://github.com/RevathiGuduru123/my2-Guduru/blob/main/MyStats.md
 
 
    
