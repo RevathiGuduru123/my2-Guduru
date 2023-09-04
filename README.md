@@ -15,7 +15,7 @@ Goa holds a **special place in my heart**. It's **pristine beaches** ,warm and b
 Here is the MyStats link
 [statlink]https://github.com/RevathiGuduru123/my2-Guduru/blob/main/MyStats.md
 
-# sports
+# sports 
 In the below table we will get to know about the sports with the reason to recommend to play the listed sports and the hours to spend on those sports in our daily life
 
 |   Sport    |   Reason           | Hours spending |
@@ -24,3 +24,10 @@ In the below table we will get to know about the sports with the reason to recom
 | BasketBall |  Team Work         |    two         |
 | olleyBall  |  Stress Relief     |    one         |
 | Tennis     |  Mental Focus      |    two         |
+
+# quotes
+> If I have seen further it is by standing on the shoulders of giants - *Isaac Newton*
+> Somewhere,something is incredible is waiting to be known by - *Carl Sagan*
+
+
+
