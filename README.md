@@ -18,8 +18,8 @@ Here is the MyStats link
 # sports
 In the below table we will get to know about the sports with the reason to recommend to play the listed sports and the hours to spend on those sports in our daily life
 
-| Sport      |       Reason       | Hours spending |
-| Badminton  | Physical exercise  |      one       |
-| BasketBall | Team Work          |      two       |
-| VolleyBall | Stress Relief      |      one       |
-| Tennis     | Mental Focus       |      two       |
+| ---Sport          |   ---Reason---          |---Hours spending--- |
+| ---Badminton---   | ---Physical exercise--- |   ---one---         |
+| ---BasketBall---  | ---Team Work---         |   ---two---         |
+| ---VolleyBall---  | ---Stress Relief---     |   ---one---         |
+| ---Tennis---      | ---Mental Focus---      |   ---two---         |
