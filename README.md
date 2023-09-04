@@ -32,6 +32,10 @@ In the below table we will get to know about the sports with the reason to recom
 
 -------------------------------------------------------
 # code snippet
+>Add the correct number of commas 
+[samplelink]https://stackoverflow.com/questions/26713855/add-the-correct-number-of-commas
+
+
 the_category with Excludes
 Here is the link for the word press code[link]https://css-tricks.com/snippets/wordpress/the_category-excludes/
 
@@ -57,9 +61,7 @@ function exclude_post_categories($excl='', $spacer=' ') {
   }
 }
 ```
-Add the correct number of commas 
 
-[samplelink]https://stackoverflow.com/questions/26713855/add-the-correct-number-of-commas
 
 
 
