@@ -19,7 +19,7 @@ Here is the MyStats link
 In the below table we will get to know about the sports with the reason to recommend to play the listed sports and the hours to spend on those sports in our daily life
 
 |   Sport    |   Reason           | Hours spending |
-|  ---       |   ----             |  ----          |
+|  ---       |   ----             |    ----        |
 | Badminton  |  Physical exercise |    one         |
 | BasketBall |  Team Work         |    two         |
 | olleyBall  |  Stress Relief     |    one         |
@@ -33,10 +33,12 @@ In the below table we will get to know about the sports with the reason to recom
 -------------------------------------------------------
 # code snippet
 >Add the correct number of commas 
+
 [samplelink]https://stackoverflow.com/questions/26713855/add-the-correct-number-of-commas
 
 
 the_category with Excludes
+
 Here is the link for the word press code[link]https://css-tricks.com/snippets/wordpress/the_category-excludes/
 
 ```
