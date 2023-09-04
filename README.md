@@ -13,7 +13,7 @@ Goa holds a __special place in my heart__. It's __pristine beaches__ ,warm and b
 * sea food 
 
 Here is the MyStats link
-[statlink]https://github.com/RevathiGuduru123/my2-Guduru/blob/main/MyStats.md
+[statlink](https://github.com/RevathiGuduru123/my2-Guduru/blob/main/MyStats.md)
 
 # sports 
 In the below table we will get to know about the sports with the reason to recommend to play the listed sports and the hours to spend on those sports in our daily life
@@ -34,13 +34,10 @@ In the below table we will get to know about the sports with the reason to recom
 # code snippet
 >Add the correct number of commas 
 
-[samplelink]https://stackoverflow.com/questions/26713855/add-the-correct-number-of-commas
+[stackoverflowlink](https://stackoverflow.com/questions/26713855/add-the-correct-number-of-commas)
 
 
-the_category with Excludes
-
-Here is the link for the word press code[link]https://css-tricks.com/snippets/wordpress/the_category-excludes/
-
+the_category with Excludes 
 ```
 function exclude_post_categories($excl='', $spacer=' ') {
   $categories = get_the_category(get_the_ID());
@@ -63,6 +60,9 @@ function exclude_post_categories($excl='', $spacer=' ') {
   }
 }
 ```
+Here is the link for the code snippet
+[referencelink](https://css-tricks.com/snippets/wordpress/the_category-excludes/)
+
 
 
 
