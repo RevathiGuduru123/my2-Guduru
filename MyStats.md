@@ -4,8 +4,3 @@ I am Revathi and my hobbies are dancing and reading books. I love to explore new
 
 Here is my image
 ![image](IMG_20220611_174056_551-1.jpg)
-
-
-
-
-
